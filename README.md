@@ -23,19 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikandarali64&show_icons=true&locale=en" alt="sikandarali64" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarali64&" alt="sikandarali64" /></p>
-<h1 align="center">Hi 👋, I'm Sikandar Ali</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandarali64&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarali64" /> </p>
-
-- 🔭 I’m currently working on **hospital managment system**
-
-- 🌱 I’m currently learning **JavaScript - Python - Pandas - Numpy**
-
-- 📫 How to reach me **sikandaraliburiro1234@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sikandar-ali-413b31344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sikandar-ali-413b31344" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sikandar_ali_buriro?igsh=mw1iznazz3hxehvlzq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sikandar_ali_buriro?igsh=mw1iznazz3hxehvlzq==" height="30" width="40" /></a>
-</p>
