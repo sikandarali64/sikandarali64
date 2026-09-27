@@ -1,84 +1,73 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sikandar+Ali;Computer+Systems+Engineering+Student;Full+Stack+%2B+AI+Developer;Currently+Interning+%40+FlyRank+AI)](https://git.io/typing-svg)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6666f1,100:06b6d4&height=200&section=header&text=Sikandar%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full%20Stack%20%2B%20AI&descAlignY=58&descSize=18)](https://github.com/sikandarali64)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sikandarali64&label=Profile%20Views&color=6366f1&style=flat)](https://github.com/sikandarali64)
-[![Followers](https://img.shields.io/github/followers/sikandarali64?label=Followers&style=flat&color=06b6d4)](https://github.com/sikandarali64?tab=followers)
-
-</div>
 
 ---
 
-### 🧠 About Me
+## 👋 Hey, I'm [Sikandar](https://github.com/sikandarali64)
 
-```yaml
-name: Sikandar Ali
-role: Computer Systems Engineering Student
-university: QUEST Nawabshah (2024 - 2028)
-current: Front-End AI Engineering Intern @ FlyRank AI
-location: Nawabshah, Sindh, Pakistan
-focus: [Full Stack Development, AI Integration]
-open_to: [Internships, Collaborations, Hackathons]
-```
+Computer Systems Engineering student from **Nawabshah, Sindh, Pakistan** — building full-stack and AI-powered web apps. Currently interning as a **Front-End AI Engineer @ FlyRank AI**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,nodejs,express,tailwind,vite,supabase,mongodb,git,github,vscode" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![ServiceIQ Pro](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=serviceiq-pro&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/serviceiq-pro)
-[![HMS Pro](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=Hospital-management-system&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/Hospital-management-system)
-
-[![FlyRank Capstone](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=flyrank-frontend-capstone&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/flyrank-frontend-capstone)
-[![Smart Campus](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=SMART-CAMPUS-MANAGEMENT-SYSTEM&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/SMART-CAMPUS-MANAGEMENT-SYSTEM)
-
-</div>
+- 🎓 **Studying** BS Computer Systems Engineering — QUEST Nawabshah (2024–2028)
+- 🚀 **Interning** as Front-End AI Engineer @ FlyRank AI (2026)
+- 🤝 **Volunteered** at Alkhidmat Foundation (Summer 2026)
+- 🏗️ **Building** full-stack apps with React, Node.js & Supabase
+- 💼 **Open to** internships, collabs, and hackathon teams
+- 📬 **Reach me** → sikandaraliburiro1234@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+[![Skills](https://skillicons.dev/icons?i=js,cpp,c,html,css)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sikandarali64&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikandarali64&layout=compact" height="165"/>
+### Frontend & Backend
+[![Web](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite)](https://skillicons.dev)
 
-<img src="https://streak-stats.demolab.com/?user=sikandarali64" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sikandarali64&no-frame=true&row=1&column=6)](https://github.com/sikandarali64)
-
-</div>
+### Database & Tools
+[![Tools](https://skillicons.dev/icons?i=supabase,mongodb,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-### 📈 Contribution Activity Graph
+## 🚀 Projects
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sikandarali64&theme=tokyo-night)](https://github.com/sikandarali64)
-
-</div>
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| 🤖 **[ServiceIQ Pro](https://github.com/sikandarali64/serviceiq-pro)** | AI-powered platform that auto-assigns the best available worker to service requests | React, Node.js, Express, Supabase | — |
+| 🏥 **[HMS Pro](https://github.com/sikandarali64/Hospital-management-system)** | Full hospital management web app — patients, appointments, admin dashboard | HTML, CSS, JS, Supabase | [Demo](https://hospital-management-system-f7h8.vercel.app) |
+| 🎓 **[FlyRank Frontend Capstone](https://github.com/sikandarali64/flyrank-frontend-capstone)** | Accessible HMS login interface with validation & password strength | HTML, CSS, JS | — |
+| 🏫 **[Smart Campus Management System](https://github.com/sikandarali64/SMART-CAMPUS-MANAGEMENT-SYSTEM)** | Campus admin system for students, faculty & attendance | C++ | — |
 
 ---
 
-### 🎓 Certifications
+## ⚡ Developer Series
+
+> *Small projects. Real problems. Built fast.*
+
+| # | Project | What it does | Stack |
+|---|---|---|---|
+| 01 | ✈️ **[FlyRank Internship](https://github.com/sikandarali64/flyrank-internship)** | Frontend + AI engineering assignments, CV analyzer | React, Next.js, TS |
+| 02 | 🧰 **[C Hospital Management System](https://github.com/sikandarali64/Hospital-managment-system)** | Command-line patient/doctor records | C |
+| 03 | 📥 **[YouTube Downloader](https://github.com/sikandarali64/youtube-downloader)** | CLI tool using yt-dlp | C++ |
+| 04 | 🌐 **[Portfolio Landing Page](https://github.com/sikandarali64/portfolio-landing-page)** | Responsive agency landing page | HTML, CSS, Tailwind |
+
+---
+
+## 📊 GitHub Stats
+
+[![Sikandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikandarali64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/sikandarali64)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikandarali64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sikandarali64&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🎓 Certifications
 
 - 🎓 Google AI Essentials Specialization — Coursera (2025)
 - 🎓 Certified Web Developer — PITP, Sukkur IBA (2025)
@@ -87,117 +76,12 @@ open_to: [Internships, Collaborations, Hackathons]
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sikandar-ali-413b31344"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sikandaraliburiro1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sikandarali64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6666f1&height=100&section=footer)](https://github.com/sikandarali64)
-
-</div><div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sikandar+Ali;Computer+Systems+Engineering+Student;Full+Stack+%2B+AI+Developer;Currently+Interning+%40+FlyRank+AI)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sikandarali64&label=Profile%20Views&color=6366f1&style=flat)](https://github.com/sikandarali64)
-[![Followers](https://img.shields.io/github/followers/sikandarali64?label=Followers&style=flat&color=06b6d4)](https://github.com/sikandarali64?tab=followers)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-ali-413b31344)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikandaraliburiro1234@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikandarali64)
 
 ---
 
-### 🧠 About Me
-
-```yaml
-name: Sikandar Ali
-role: Computer Systems Engineering Student
-university: QUEST Nawabshah (2024 - 2028)
-current: Front-End AI Engineering Intern @ FlyRank AI
-location: Nawabshah, Sindh, Pakistan
-focus: [Full Stack Development, AI Integration]
-open_to: [Internships, Collaborations, Hackathons]
-```
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,nodejs,express,tailwind,vite,supabase,mongodb,git,github,vscode" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![ServiceIQ Pro](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=serviceiq-pro&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/serviceiq-pro)
-[![HMS Pro](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=Hospital-management-system&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/Hospital-management-system)
-
-[![FlyRank Capstone](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=flyrank-frontend-capstone&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/flyrank-frontend-capstone)
-[![Smart Campus](https://github-readme-stats.vercel.app/api/pin/?username=sikandarali64&repo=SMART-CAMPUS-MANAGEMENT-SYSTEM&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64/SMART-CAMPUS-MANAGEMENT-SYSTEM)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sikandarali64&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikandarali64&layout=compact" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=sikandarali64" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sikandarali64&no-frame=true&row=1&column=6)](https://github.com/sikandarali64)
-
-</div>
-
----
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sikandarali64&theme=tokyo-night)](https://github.com/sikandarali64)
-
-</div>
-
----
-
-### 🎓 Certifications
-
-- 🎓 Google AI Essentials Specialization — Coursera (2025)
-- 🎓 Certified Web Developer — PITP, Sukkur IBA (2025)
-- 🏆 1st Place, C++ Programming Contest — SZABIST ZABTech (2025)
-- 📋 IEEE Education Society QUEST — Webinar Certificates (2026)
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sikandar-ali-413b31344"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sikandaraliburiro1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sikandarali64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6666f1&height=100&section=footer)](https://github.com/sikandarali64)
-
-</div>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6666f1&height=120&section=footer)](https://github.com/sikandarali64)
