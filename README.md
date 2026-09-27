@@ -1,121 +1,87 @@
-# Hi there! 👋 I'm Sikandar Ali
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6666f1,100:06b6d4&height=200&section=header&text=Sikandar%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full%20Stack%20%2B%20AI&descAlignY=58&descSize=18)](https://github.com/sikandarali64)
 
-**Computer Systems Engineering Student @ QUEST Nawabshah**  
-Building AI-powered web apps, learning full stack development, and turning ideas into real projects.
-
----
-
-## 🎓 About Me
-
-- 🎯 **Degree**: BS Computer Systems Engineering — QUEST Nawabshah (2024–2028)
-- 💻 **Focus**: Full Stack Web Development, AI Integration
-- 🚀 **Current**: Front-End AI Engineering Intern @ FlyRank AI (July 2026)
-- 🤝 **Also**: Volunteer Intern @ Alkhidmat Foundation (Summer 2026)
-- 📚 **Learning**: React.js, Node.js, MongoDB, AI APIs
+[![Profile Views](https://komarev.com/ghpvc/?username=sikandarali64&label=Profile%20Views&color=6366f1&style=flat)](https://github.com/sikandarali64)
 
 ---
 
-## 🛠️ Technical Skills
+## 👋 Hey, I'm [Sikandar](https://github.com/sikandarali64)
+
+Computer Systems Engineering student from **Nawabshah, Sindh, Pakistan** — building full-stack and AI-powered web apps. Currently interning as a **Front-End AI Engineer @ FlyRank AI**.
+
+---
+
+## 🧠 About Me
+
+- 🎓 **Studying** BS Computer Systems Engineering — QUEST Nawabshah (2024–2028)
+- 🚀 **Interning** as Front-End AI Engineer @ FlyRank AI (2026)
+- 🤝 **Volunteered** at Alkhidmat Foundation (Summer 2026)
+- 🏗️ **Building** full-stack apps with React, Node.js & Supabase
+- 💼 **Open to** internships, collabs, and hackathon teams
+- 📬 **Reach me** → sikandaraliburiro1234@gmail.com
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript (ES6+)
-- C / C++
-- HTML5 & CSS3
+[![Skills](https://skillicons.dev/icons?i=js,cpp,c,html,css)](https://skillicons.dev)
 
-### Frameworks & Libraries
-- React.js
-- Node.js & Express.js
-- Tailwind CSS
-- Framer Motion
+### Frontend & Backend
+[![Web](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite)](https://skillicons.dev)
 
-### Databases & Tools
-- Supabase (PostgreSQL)
-- MongoDB (basics)
-- Git & GitHub
-- VS Code
+### Database & Tools
+[![Tools](https://skillicons.dev/icons?i=supabase,mongodb,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-### 1. 🤖 ServiceIQ Pro — AI Service Management Platform
-AI-powered platform that auto-assigns the best available worker to service requests using a multi-factor scoring algorithm. Built for the **AI & Big Data Expo Silicon Valley Hackathon 2026**.
-
-- **AI Logic**: `score = (1/distance × 40) + (skill × 30) + (rating × 20) + (available × 10)`
-- **Features**: Real-time Admin Dashboard, AI Decision Log, Worker Wallet System (inDrive-style), Simulate Incident button
-- **Tech**: React, Node.js, Express, Tailwind CSS, Framer Motion
-- **Repo**: [ServiceIQ Pro](https://github.com/sikandarali64/project)
-
----
-
-### 2. 🏥 HMS Pro — Hospital Management System (Web)
-Full hospital management web application with patient registration, appointment scheduling, admin dashboard with real-time data, and a patient portal with tele-consultation interface.
-
-- **Features**: Admin Dashboard, Patient Registration, Appointment Scheduling, Patient Portal, Clinical Labs, Department Pages
-- **Tech**: HTML, CSS, JavaScript, Supabase
-- **Repo**: [Hospital-management-system](https://github.com/sikandarali64/Hospital-management-system)
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| 🤖 **[ServiceIQ Pro](https://github.com/sikandarali64/serviceiq-pro)** | AI-powered platform that auto-assigns the best available worker to service requests | React, Node.js, Express, Supabase | — |
+| 🏥 **[HMS Pro](https://github.com/sikandarali64/Hospital-management-system)** | Full hospital management web app — patients, appointments, admin dashboard | HTML, CSS, JS, Supabase | [Demo](https://hospital-management-system-f7h8.vercel.app) |
+| 🎓 **[FlyRank Frontend Capstone](https://github.com/sikandarali64/flyrank-frontend-capstone)** | Accessible HMS login interface with validation & password strength | HTML, CSS, JS | — |
+| 🏫 **[Smart Campus Management System](https://github.com/sikandarali64/SMART-CAMPUS-MANAGEMENT-SYSTEM)** | Campus admin system for students, faculty & attendance | C++ | — |
 
 ---
 
-### 3. 🏫 Smart Campus Management System
-Campus management system for student and faculty administration built as a university project.
+## ⚡ Developer Series
 
-- **Tech**: C++, OOP, Inheritance, File Handling
-- **Repo**: [SMART-CAMPUS-MANAGEMENT-SYSTEM](https://github.com/sikandarali64/SMART-CAMPUS-MANAGEMENT-SYSTEM)
+> *Small projects. Real problems. Built fast.*
 
----
-
-### 4. 🏨 Smart Hospital Resource Management System — C++
-Complex Engineering Problem (CEP) project implementing hospital resource allocation using advanced data structures.
-
-- **Data Structures**: Heaps (Priority Queue), Hash Tables, Graphs, Queues
-- **Features**: Emergency patient prioritization, O(1) resource lookup, patient workflow graph
-- **Tech**: C++
+| # | Project | What it does | Stack |
+|---|---|---|---|
+| 01 | ✈️ **[FlyRank Internship](https://github.com/sikandarali64/flyrank-internship)** | Frontend + AI engineering assignments, CV analyzer | React, Next.js, TS |
+| 02 | 🧰 **[C Hospital Management System](https://github.com/sikandarali64/Hospital-managment-system)** | Command-line patient/doctor records | C |
+| 03 | 📥 **[YouTube Downloader](https://github.com/sikandarali64/youtube-downloader)** | CLI tool using yt-dlp | C++ |
+| 04 | 🌐 **[Portfolio Landing Page](https://github.com/sikandarali64/portfolio-landing-page)** | Responsive agency landing page | HTML, CSS, Tailwind |
 
 ---
 
-### 5. 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
+## 📊 GitHub Stats
 
-- **Tech**: HTML, CSS, JavaScript
-- **Repo**: [portfolio](https://github.com/sikandarali64/portfolio)
+[![Sikandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikandarali64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/sikandarali64)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikandarali64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/sikandarali64)
 
----
-
-## 🏆 Hackathons & Programs
-
-| Program | Role | Period |
-|---------|------|--------|
-| AI & Big Data Expo Silicon Valley Hackathon 2026 | Participant | May 2026 |
-| FlyRank AI Internship — Front-End AI Engineering | Intern | July–Aug 2026 |
-| Alkhidmat Foundation Summer Internship | Volunteer Intern | Summer 2026 |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sikandarali64&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
 - 🎓 Google AI Essentials Specialization — Coursera (2025)
 - 🎓 Certified Web Developer — PITP, Sukkur IBA (2025)
-- 🏆 C++ Programming Contest — 1st Place, SZABIST ZABTech (2025)
-- 📋 IEEE Education Society QUEST — Multiple Webinar Certificates (2026)
+- 🏆 1st Place, C++ Programming Contest — SZABIST ZABTech (2025)
+- 📋 IEEE Education Society QUEST — Webinar Certificates (2026)
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect
 
-- 💼 **LinkedIn**: [Sikandar Ali](https://www.linkedin.com/in/sikandar-ali-413b31344)
-- 📧 **Email**: sikandaraliburiro1234@gmail.com
-- 🐙 **GitHub**: [@sikandarali64](https://github.com/sikandarali64)
-
----
-
-## 🎯 Currently Working On
-
-- ⚡ Front-End AI Engineering assignments @ FlyRank AI
-- ⚛️ Strengthening React.js & modern frontend skills
-- 🤖 Learning AI API integration (Claude, OpenAI)
-- 📚 Sigma Web Development Course (CodeWithHarry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-ali-413b31344)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikandaraliburiro1234@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikandarali64)
 
 ---
 
-*Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.* 😊
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6666f1&height=120&section=footer)](https://github.com/sikandarali64)
